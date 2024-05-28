@@ -25,7 +25,7 @@ This Pomodoro Timer application provides a simple way to manage time and improve
 1. **Configuration**: Modify the constants `WORK_MIN`, `SHORT_BREAK_MIN`, and `LONG_BREAK_MIN` in the code to adjust the duration of work sessions and breaks.
 2. **Execution**: Run the Python script to start the Pomodoro Timer application.
     ```
-    python pomodoro_timer.py
+    python pomodoro.py
     ```
 3. **Usage**: Press the "Start" button to begin a Pomodoro cycle. Press the "Reset" button to reset the timer.
 4. **Progress Monitoring**: Check the number of completed work sessions using check marks.
